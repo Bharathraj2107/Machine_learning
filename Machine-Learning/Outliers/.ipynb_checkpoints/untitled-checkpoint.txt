@@ -1,0 +1,2 @@
+z index-number on how many standard deviation away from the mean
+standard deviation-how much distance away from the mean 
